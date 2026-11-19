@@ -7,3 +7,4 @@ pydantic
 faiss-cpu
 gigachat
 python-dotenv
+pandas
